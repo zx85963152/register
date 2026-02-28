@@ -6,6 +6,6 @@
     "email": "871659953@qq.com"
   },
   "records": {
-    "CNAME": "zx85963152.github.io"
+    "A": ["85.137.245.151"]
   }
 }
